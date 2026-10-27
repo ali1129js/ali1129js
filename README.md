@@ -1,8 +1,7 @@
 # Hi, I'm Ali
 
-Machine operator in pharma production who builds TypeScript tools for shift work and everyday problems. Based in Berlin.
+Machine operator in pharma production who builds web tools for shift work and everyday problems. Based in Berlin.
 
-Portfolio: [ali1129.dev](https://ali1129.dev)
 
 ## Live projects
 
